@@ -1,4 +1,5 @@
 # Pemrograman Jaringan Daily Challenge
+Kumpulan challenge dan penyelesaiannya dari kelas Pemrograman Jaringan tahun 2023. Solusi ditulis dengan Python.
 ## TM2
 ![image](https://github.com/zahrafayya/Progjar_Daily_Challenge/assets/34309557/27175762-2864-4e84-b6bf-f28674bb5ba9)
 ![image](https://github.com/zahrafayya/Progjar_Daily_Challenge/assets/34309557/9543a70a-93dc-4200-b89d-5a18f5b77100)
